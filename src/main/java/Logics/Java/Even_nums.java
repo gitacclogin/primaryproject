@@ -15,7 +15,7 @@ public class Even_nums
 		    	}
 		    else
 		    	{
-		    	System.out.println("Given number   odd");
+		    	System.out.println("Given number is odd");
 		    	}
 		}
 }
